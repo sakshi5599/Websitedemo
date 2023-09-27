@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.heading-container {
+  background-color: antiquewhite;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  font-style: italic;
+  padding-top: 20px;
+  background-image: "https//images.unsplash.com/photo-1694974299859-17fc8cfde2ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1376&q=80";
+  background-repeat: no-repeat;
+  border-image: fill;
+  background-size: cover;
+}
+.heading-container img{
+    height: 250px;
+    padding-top: 20px;
+    margin-left: 79%;
+   border-radius: 1%;
+   border-top: 5%;
+  margin-bottom: 30px;
+shape-image-threshold:initial;
+width: 90%;
+image-rendering: optimizeQuality;
+max-height: fit-content;
+
+   
+}
+.containent{
+    width:50%;
+font-size: 20px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-variant: normal;
+font-style: italic;
+padding-top: 50px;
+margin-left: 20%;
+}
+.btn-btn-button{
+    margin-top: 60px;;
+    width:80%;
+    height: 40px;
+       border-radius: 5%;
+       font-size:larger;
+       font-weight: bold;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* ========================================================================================== */
+#header{
+    width:100%;
+    height: 80vh;
+    margin-top:  70px;
+
+}
+#header h1{
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+}
+#header .brand-name{
+    color:rgb(133, 133, 232);
+}
+#header h2{
+    color:rgb(56, 119, 144);
+    font-size: 24px;
+
+    
+
+}
+
+#header .btn-get-started{
+    font-weight: 500;
+    font-size: 19px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    border:1px solid rgb(106, 106, 224);
+    color:rgb(52, 164, 209);
+    text-decoration: none;
+}
+#header .btn-get-started:hover{
+    background: rgb(166, 166, 251);
+    color:rgb(170, 170, 253);
+}
+.header-img{
+    text-align: right;
+}
+.img-show{
+    height:500px;
+    width: 70%;
+    border-radius: 50px;
+    border: 10px solid rgb(162, 1, 1);
+    box-shadow: inset;
+}
